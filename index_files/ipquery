@@ -1,0 +1,2 @@
+var lo="北京市", lc="北京市";
+var localAddress={city:"北京市", province:"北京市"}
